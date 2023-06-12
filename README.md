@@ -1,6 +1,7 @@
 # Coding Bootcamp Prework Study Guide
 
-## This is a brief informative Prework study guide created to assist incoming and new bootcamp students! This guide contains quick information about HTML, Git, CSS, and Javascript. I personally believe each tid-bit of information included in this study guide is more than helpful to anyone wanting to learn coding, as these same pieces of information helped further my knowledge.
+## Description
+This is a brief informative Prework study guide created to assist incoming and new bootcamp students! This guide contains quick information about HTML, Git, CSS, and Javascript. I personally believe each tid-bit of information included in this study guide is more than helpful to anyone wanting to learn coding, as these same pieces of information helped further my knowledge.
 
 ## Installation
 
